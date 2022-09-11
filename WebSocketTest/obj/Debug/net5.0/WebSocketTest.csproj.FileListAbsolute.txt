@@ -1,0 +1,16 @@
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.csproj.AssemblyReference.cache
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.AssemblyInfoInputs.cache
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.AssemblyInfo.cs
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.csproj.CoreCompileInputs.cache
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.exe
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.deps.json
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.runtimeconfig.json
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.runtimeconfig.dev.json
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.dll
+D:\temp\Demo\WebSocketTest\WebSocketTest\bin\Debug\net5.0\WebSocketTest.pdb
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.dll
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\refint\WebSocketTest.dll
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.pdb
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\WebSocketTest.genruntimeconfig.cache
+D:\temp\Demo\WebSocketTest\WebSocketTest\obj\Debug\net5.0\ref\WebSocketTest.dll
